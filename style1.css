@@ -40,7 +40,7 @@ li {
 }
    
 .menu2{
-    color: blueviolet;
+    
     text-align: center;
 }
 
@@ -48,3 +48,13 @@ p {
     margin: 5px;
     text-align: center;
 }
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+
